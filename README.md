@@ -9,7 +9,7 @@ Clone the repo down, create a new branch, and when you're done, create a pull re
 
 
 - Clone the repo
-- Install docsify.js using NPM by running `npm i -g docsify`
+- Install docsify.js using NPM by running `npm i -g docsify-cli`
 - Navigate to the locally cloned repo and run `docsify serve ./docs`
 - The server will be on `localhost:3000` for you to view.
 
