@@ -1,13 +1,6 @@
 * Getting started
   * [Home](/)
-  * [Quick start](quickstart.md)
-
-* Configuration
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
+  * [Quick start](#)
 
 * Python
  * [Getting started with Python](python_gettingstarted.md)
