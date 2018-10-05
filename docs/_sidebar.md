@@ -4,7 +4,7 @@
 
 * Python
  * [Getting started with Python](python_gettingstarted.md)
- * [Editors/IDEs](python_gettingstarted.md)
+ * [Editors/IDEs](editors_and_ides.md)
  * [Variables](python_gettingstarted.md)
  * [Data types](python_gettingstarted.md)
  * [Operators](python_gettingstarted.md)
